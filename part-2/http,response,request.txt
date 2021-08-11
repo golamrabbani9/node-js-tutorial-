@@ -1,0 +1,16 @@
+Http request methods :
+GET()
+DELET()
+POST()
+PUT()
+OPTIONS()
+HEAD()
+
+http response :
+2 part mainly:
+    a.status
+        i.200/404/500..
+    b.data
+        i.HEAD
+        ii.Body
+Hello GR,How is everything Going on...
